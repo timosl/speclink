@@ -18,8 +18,8 @@ go 1.27.0
 // VerifiedVersion exist to catch rather than to prevent.
 require (
 	github.com/worldiety/speclink/spec v0.0.0-20260909124605-a91968ddccb4
-	golang.org/x/mod v0.38.0
-	golang.org/x/tools v0.48.0
+	golang.org/x/mod v0.42.0
+	golang.org/x/tools v0.52.0
 )
 
-require golang.org/x/sync v0.22.0 // indirect
+require golang.org/x/sync v0.24.0 // indirect
